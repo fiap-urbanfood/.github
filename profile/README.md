@@ -20,27 +20,26 @@ Os principais objetivos do projeto são:
  - Oferecer uma experiência mais ágil e organizada aos clientes, minimizando confusões e tempos de espera.
  - Apoiar a expansão da lanchonete com um sistema escalável que acompanhe o crescimento do negócio.
 
-## Documentação Miro - Processos da App.
-
-https://miro.com/app/board/uXjVLfslzvU=/?share_link_id=64835138106
-
 ## Usuário Padrão para validação do codigo fonte:
 
  - Plataforma: Github
  - Link: https://github.com/fiap-urbanfood
- - Reposítorios: Public
  - Usuário: soatarchitecturefiap@gmail.com
+ - Reposítorios estão como Publico
 
-## Arquitetura da Aplicação:
+## Documentação Miro - Processos da App.
+https://miro.com/app/board/uXjVLfslzvU=/?share_link_id=64835138106
 
+## Arquitetura da Aplicação e CI/CD:
 https://github.com/fiap-urbanfood/urbanfood
 
-## Banco de Dados - SQL:
+## MicroService e CI/CD:
+https://github.com/fiap-urbanfood/authentication-lambda
 
+## Banco de Dados - SQL:
 https://github.com/fiap-urbanfood/terraform-rds
 
 ## Banco de Dados - NoSQL:
-
 https://github.com/fiap-urbanfood/terraform-redis
 
 ## Documentação Api's - Collection do Postman (JSON). 
