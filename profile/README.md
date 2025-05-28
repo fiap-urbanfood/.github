@@ -33,6 +33,13 @@ Os principais objetivos do projeto são:
  - https://github.com/fiap-urbanfood/pedidos-ms
  - https://github.com/fiap-urbanfood/produtos-ms
 
+## Endpoint dos MicroService:
+ - [authentication-lambda](https://gs2j4476z0.execute-api.us-east-1.amazonaws.com/Prod/)
+ - [cliente-ms](http://ac8bcef640d5543d48f4da1450a15eb2-733787851.us-east-1.elb.amazonaws.com:8000/docs)
+ - [login-ms](http://a290354dd0cfd40cbb428316c51cd3ea-2025820054.us-east-1.elb.amazonaws.com:8001/docs)
+ - [pedidos-ms](http://a600b9ecd9467470c9ad4af53ee32358-1571761499.us-east-1.elb.amazonaws.com:8002/docs)
+ - [produtos-ms](http://a3b77c3214754428da09bcb0f12c4eaf-675154609.us-east-1.elb.amazonaws.com:8003/docs)
+
 ## SONARCLOUD:
  - https://sonarcloud.io/organizations/fiap-urbanfood/projects?view=leak
 
