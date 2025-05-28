@@ -23,10 +23,10 @@ Os principais objetivos do projeto são:
 ## Documentação Miro - Processos da App.
  - https://miro.com/app/board/uXjVLfslzvU=/?share_link_id=64835138106
 
-## Arquitetura da Aplicação e CI/CD Monolito:
+## Repositório do monólito e CI/CD:
  - https://github.com/fiap-urbanfood/urbanfood
 
-## Repositório do microsserviços e CI/CD github actions:
+## Repositório do microsserviços e CI/CD:
  - https://github.com/fiap-urbanfood/authentication-lambda
  - https://github.com/fiap-urbanfood/cliente-ms
  - https://github.com/fiap-urbanfood/login-ms
