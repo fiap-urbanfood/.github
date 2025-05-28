@@ -26,7 +26,7 @@ Os principais objetivos do projeto são:
 ## Repositório do monólito e CI/CD:
  - https://github.com/fiap-urbanfood/urbanfood
 
-## Repositório do microsserviços e CI/CD:
+## Repositório dos microsserviços e CI/CD:
  - https://github.com/fiap-urbanfood/authentication-lambda
  - https://github.com/fiap-urbanfood/cliente-ms
  - https://github.com/fiap-urbanfood/login-ms
