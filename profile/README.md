@@ -30,11 +30,15 @@ Os principais objetivos do projeto são:
 ## Documentação Miro - Processos da App.
 https://miro.com/app/board/uXjVLfslzvU=/?share_link_id=64835138106
 
-## Arquitetura da Aplicação e CI/CD:
+## Arquitetura da Aplicação e CI/CD Monolito:
 https://github.com/fiap-urbanfood/urbanfood
 
 ## MicroService e CI/CD:
 https://github.com/fiap-urbanfood/authentication-lambda
+https://github.com/fiap-urbanfood/cliente-ms
+https://github.com/fiap-urbanfood/login-ms
+https://github.com/fiap-urbanfood/pedidos-ms
+https://github.com/fiap-urbanfood/produtos-ms
 
 ## Banco de Dados - SQL:
 https://github.com/fiap-urbanfood/terraform-rds
